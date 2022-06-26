@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "solution": "Qué",
+            "quiz": "Ce",
+            "example": ""
+        },
+        {
+            "solution": "Dónde",
+            "quiz": "Unde",
+            "example": ""
+        },
+        {
+            "solution": "Cuándo",
+            "quiz": "Când",
+            "example": ""
+        },
+        {
+            "solution": "Cómo",
+            "quiz": "Cum",
+            "example": ""
+        },
+        {
+            "solution": "Quién",
+            "quiz": "Cine",
+            "example": ""
+        },
+        {
+            "solution": "Por qué",
+            "quiz": "De ce",
+            "example": ""
+        }
+
+    ]
+}

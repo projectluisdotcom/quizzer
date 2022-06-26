@@ -26,7 +26,7 @@
             "example": "Vine spre"
         },
         {
-            "solution": "Querer",
+            "solution": "Desear",
             "quiz": "Dori",
             "example": "Funcționarul doreşte gogoaşa"
         },
@@ -36,8 +36,8 @@
             "example": "Băiatul citeşte o carte în parc"
         },
         {
-            "solution": "Uita",
-            "quiz": "Privi",
+            "solution": "Ver",
+            "quiz": "Uitâ",
             "example": "Uită la un film"
         },
         {
@@ -51,9 +51,14 @@
             "example": "Sunâ-mâ"
         },
         {
-            "solution": "Cocinar",
+            "solution": "Preparar",
             "quiz": "Pregâti",
             "example": ""
+        },
+        {
+            "solution": "Cocinar",
+            "quiz": "Gâti",
+            "example": "Mama mea gâteste foarte mult"
         },
         {
             "solution": "Descansar",
@@ -123,7 +128,7 @@
         {
             "solution": "Escuchar",
             "quiz": "Auzi",
-            "example": ""
+            "example": "Nu aud telefonul"
         },
         {
             "solution": "Planificar",
@@ -161,14 +166,9 @@
             "example": "Te rog încearcă să pui această cutie pe raftul de sus"
         },
         {
-            "solution": "Use",
+            "solution": "Usar",
             "quiz": "Folosi",
             "example": "Foloseşte o cameră video"
-        },
-        {
-            "solution": "Montar",
-            "quiz": "Călători",
-            "example": "Călătorie cu autobuzul"
         },
         {
             "solution": "Limpiar",
@@ -186,19 +186,9 @@
             "example": "Hai să vorbim"
         },
         {
-            "solution": "Ver",
-            "quiz": "Vedea",
-            "example": "Turistul a privit asfinţitul"
-        },
-        {
             "solution": "Buscar",
             "quiz": "Căuta",
             "example": "Căutarea unei furnici"
-        },
-        {
-            "solution": "Hacer",
-            "quiz": "Face",
-            "example": "Face cafea"
         },
         {
             "solution": "Reir",
@@ -239,6 +229,36 @@
             "solution": "Abrir",
             "quiz": "Deschide",
             "example": "Deschide un geam"
+        },        
+        {
+            "solution": "Costar",
+            "quiz": "Costa",
+            "example": "Cât costâ?"
+        },
+        {
+            "solution": "Querer",
+            "quiz": "Vrea",
+            "example": "Vreau sâ merg la plaja"
+        },
+        {
+            "solution": "Gustar",
+            "quiz": "Place",
+            "example": "Imi place sâ manânc mâmâliga"
+        },
+        {
+            "solution": "Sentarse",
+            "quiz": "Aşeza",
+            "example": "Aşeazate pe scaun"
+        },
+        {
+            "solution": "Bailar",
+            "quiz": "Dansa",
+            "example": "Nu ştiu sâ dansez"
+        },
+        {
+            "solution": "Pagar",
+            "quiz": "Plati",
+            "example": "Vreau sâ plâtesc"
         }
     ]
 }
