@@ -2,6 +2,8 @@ import { useEffect, useRef, useState } from 'react'
 import q from '../core/quizzes.json'
 import shuffle from '../core/shuffle'
 
+const sorted = [...q.data].sort((x, y) => x.solution.localeCompare(y.solution))
+
 type Game = {
     quiz: string
     solution: string
@@ -55,14 +57,17 @@ const Quiz = () => {
     if(!question) return <div>Loading...</div>
 
     return <>
-        <div className='border rounded'>
-            <div className='text-2xl'>Status {index}/{quizzes.length} - Errors {error}</div>
-            <div className='text-2xl'>{question.quiz}</div>
-            <div>
-                {quizzes.map(x => <button disabled={![...alreadyAnswered, ...roundAnswered].findIndex(y => y === x.solution)} key={x.solution} type='button' onClick={e => check(e) } className='bg-blue-500 p-2 rounded shadow-2xl disabled:bg-red-200'>{x.solution}</button> )}
+        <div className='border rounded p-2 my-4'>
+            <div className='my-2'>
+                <span className='text-xl'>Errors {error}</span>
+                <button type='button' onClick={_ => reset()} className='text-xl bg-gray-200 p-2 rounded shadow-2xl float-right'>Reset</button>
+            </div>
+            <div className='text-6xl text-center p-4'>{question.quiz}</div>
+            <div className='text-2xl text-center p-2'>{index}/{quizzes.length}</div>
+            <div className='grid gap-1 grid-cols-3 sm:grid-cols-6'>
+                {sorted.map((x, i) => <button disabled={[...alreadyAnswered, ...roundAnswered].findIndex(y => y === x.solution) !== -1} key={`sol-but-${i}`} type='button' onClick={e => check(e) } className='bg-blue-300 hover:bg-blue-500 p-2 shadow-2xl disabled:bg-red-200'>{x.solution}</button> )}
             </div>
             <div>
-                <button type='button' onClick={_ => reset()} className='bg-gray-200 p-2 rounded shadow-2xl'>Reset</button>
             </div>
         </div>
     </>

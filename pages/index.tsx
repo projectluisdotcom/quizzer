@@ -13,7 +13,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className='p-4'>
-        <h1 className='text-3xl font-bold text-center'>Quiz</h1>
+        <h1 className='text-3xl font-bold text-center'>Quizzer</h1>
         <Game />
       </main>
     </div>
