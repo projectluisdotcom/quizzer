@@ -1,12 +1,249 @@
 {
     "data": [
         {
-            "solution": "Buscar",
-            "quiz": "Cercare"
+            "solution": "Cancelar",
+            "quiz": "Anula",
+            "example": "Anulează întâlnirea"
+        },
+        {
+            "solution": "Hacer",
+            "quiz": "Face",
+            "example": "Fac lecţii în fiecare zi după şcoală"
+        },
+        {
+            "solution": "Ir",
+            "quiz": "Merge",
+            "example": "Mergi drept înainte"
+        },
+        {
+            "solution": "Comer",
+            "quiz": "Mânca",
+            "example": "Familia mănâncă la masă"
+        },
+        {
+            "solution": "Venir",
+            "quiz": "Veni",
+            "example": "Vine spre"
         },
         {
             "solution": "Querer",
-            "quiz": "Iubesk"
+            "quiz": "Dori",
+            "example": "Funcționarul doreşte gogoaşa"
+        },
+        {
+            "solution": "Leer",
+            "quiz": "Citi",
+            "example": "Băiatul citeşte o carte în parc"
+        },
+        {
+            "solution": "Uita",
+            "quiz": "Privi",
+            "example": "Uită la un film"
+        },
+        {
+            "solution": "Decir",
+            "quiz": "Spune",
+            "example": "Femaia nu poate spune nimic"
+        },
+        {
+            "solution": "Llamar",
+            "quiz": "Suna",
+            "example": "Sunâ-mâ"
+        },
+        {
+            "solution": "Cocinar",
+            "quiz": "Pregâti",
+            "example": ""
+        },
+        {
+            "solution": "Descansar",
+            "quiz": "Se odihni",
+            "example": ""
+        },
+        {
+            "solution": "Volver",
+            "quiz": "Se întoarce",
+            "example": "Întoarce acasă seara"
+        },
+        {
+            "solution": "Duchar",
+            "quiz": "Face duş",
+            "example": "Duş în cabina de duş"
+        },
+        {
+            "solution": "Bañar",
+            "quiz": "Face baie",
+            "example": "Băieţii au făcut baie în cadă"
+        },
+        {
+            "solution": "Dormir",
+            "quiz": "Dormi",
+            "example": "Fetiţa se duce să doarmă"
+        },
+        {
+            "solution": "Despertar",
+            "quiz": "Se trezi",
+            "example": "Băiatul se trezeşte şi se dă jos din pat"
+        },
+        {
+            "solution": "Sentir",
+            "quiz": "Simţi",
+            "example": "Băiatul se trezeşte şi se dă jos din pat"
+        },
+        {
+            "solution": "Dibujar",
+            "quiz": "Desena",
+            "example": "Copii desenează şi pictează la grădiniţă"
+        },
+        {
+            "solution": "Encender",
+            "quiz": "Aprinde",
+            "example": "Aprinde lumina"
+        },
+        {
+            "solution": "Contestar",
+            "quiz": "Răspunde",
+            "example": "Copii vor răspunde la întrebare"
+        },
+        {
+            "solution": "Enseñar",
+            "quiz": "Preda",
+            "example": "Predă cum"
+        },
+        {
+            "solution": "Preguntar",
+            "quiz": "Întreba",
+            "example": "Studenta universitară a pus întrebare profesorului"
+        },
+        {
+            "solution": "Recivir",
+            "quiz": "Primi",
+            "example": "Am primit o carte poştală de la iubita mea"
+        },
+        {
+            "solution": "Recivir",
+            "quiz": "Primi",
+            "example": "Am primit o carte poştală de la iubita mea"
+        },
+        {
+            "solution": "Escuchar",
+            "quiz": "Auzi",
+            "example": ""
+        },
+        {
+            "solution": "Planificar",
+            "quiz": "Planifica",
+            "example": "Vom planifica vacanţa în Europa"
+        },
+        {
+            "solution": "Exlicar",
+            "quiz": "Explica",
+            "example": "Explică o diagramă"
+        },
+        {
+            "solution": "Poder",
+            "quiz": "Putea",
+            "example": "A putea sări peste"
+        },
+        {
+            "solution": "Cerrar",
+            "quiz": "Închide",
+            "example": "Închide-ţi cartea"
+        },
+        {
+            "solution": "Comprar",
+            "quiz": "Cumpăra",
+            "example": "Cumpără cu cartea de credit"
+        },
+        {
+            "solution": "Correr",
+            "quiz": "Alerga",
+            "example": "Aleargă în adidaşi"
+        },
+        {
+            "solution": "Poner",
+            "quiz": "Pune",
+            "example": "Te rog încearcă să pui această cutie pe raftul de sus"
+        },
+        {
+            "solution": "Use",
+            "quiz": "Folosi",
+            "example": "Foloseşte o cameră video"
+        },
+        {
+            "solution": "Montar",
+            "quiz": "Călători",
+            "example": "Călătorie cu autobuzul"
+        },
+        {
+            "solution": "Limpiar",
+            "quiz": "Spăla",
+            "example": "Femeia se spală pe faţă"
+        },
+        {
+            "solution": "Frotar",
+            "quiz": "Peria",
+            "example": "Perie-te pe dinţi de trei ori în fiecare zi, dimineaţa, după-masa şi seara"
+        },
+        {
+            "solution": "Hablar",
+            "quiz": "Vorbi",
+            "example": "Hai să vorbim"
+        },
+        {
+            "solution": "Ver",
+            "quiz": "Vedea",
+            "example": "Turistul a privit asfinţitul"
+        },
+        {
+            "solution": "Buscar",
+            "quiz": "Căuta",
+            "example": "Căutarea unei furnici"
+        },
+        {
+            "solution": "Hacer",
+            "quiz": "Face",
+            "example": "Face cafea"
+        },
+        {
+            "solution": "Reir",
+            "quiz": "Râde",
+            "example": "Cuplul râde despre glumă"
+        },
+        {
+            "solution": "Finalizar",
+            "quiz": "Termina",
+            "example": "Termin munca la opt pm, aşa că ne vedem la restaurant la nouă"
+        },
+        {
+            "solution": "Esperar",
+            "quiz": "Aştepta",
+            "example": "Aştepta trenul"
+        },
+        {
+            "solution": "Viajar",
+            "quiz": "Călători",
+            "example": "După ce am să absolv voi călători în jurul lumii pentru un an"
+        },
+        {
+            "solution": "Recordar",
+            "quiz": "Îşi aminti",
+            "example": "Aminteşte-ţi un număr"
+        },
+        {
+            "solution": "Morir",
+            "quiz": "Muri",
+            "example": "El a murit într-un accident anul trecut"
+        },
+        {
+            "solution": "Estudiar",
+            "quiz": "Studia",
+            "example": "Studiu la bibliotecă"
+        },
+        {
+            "solution": "Abrir",
+            "quiz": "Deschide",
+            "example": "Deschide un geam"
         }
     ]
 }
